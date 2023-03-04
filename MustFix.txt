@@ -1,9 +1,13 @@
 - format attribute
 - lookout actionPerformed()
 - change evalIcon() to use switch
-- more comment if can!
+- more comment
 - change picture and decoration game
   (* picture is hazy(blur) so can use 
       "Image = Image.getImage().getScaledInstance(width, height, Image.SCALE_DEFAULT)" 
       "Icon = (Icon) Image 
   *)
+- add more difficulty if possible
+
+- fix bug {
+  when submit and JOptionPane is running, timer don't stop
