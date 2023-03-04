@@ -5,9 +5,10 @@
 - change picture and decoration game
   (* picture is hazy(blur) so can use 
       "Image = Image.getImage().getScaledInstance(width, height, Image.SCALE_DEFAULT)" 
-      "Icon = (Icon) Image 
+      "Icon = (Icon) Image"
   *)
 - add more difficulty if possible
+- add main menu UI and other
 
 - fix bug {
   when submit and JOptionPane is running, timer don't stop
